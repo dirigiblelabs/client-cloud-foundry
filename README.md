@@ -1,7 +1,7 @@
 # Cloud Foundry Client for Eclipse Dirigible
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/client-cf.svg)](https://github.com/dirigiblelabs/client-cf/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/client-cloud-foundry.svg)](https://github.com/dirigiblelabs/client-cloud-foundry/graphs/contributors)
 
 ## Overview
 1. **Set-up:**
