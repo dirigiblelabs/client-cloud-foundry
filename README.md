@@ -11,7 +11,12 @@ TBD
 
 2. **Usage:**
 ```javascript
-TBD
+var response = require("http/v4/response");
+var destinationService = require("cloud-foundry/services/destination");
+
+var destination = destinationService.getDestination("my-destination");
+
+response.print(JSON.stringify(destination));
 ```
 
 ## License
